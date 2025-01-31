@@ -26,3 +26,5 @@ ng build prod
 git clone  https://github.com/UnpredictablePrashant/ResumeAI
 
 The current resource group "Herovired" doesnt allow me to create Appservices or proper monitoring through Azure , I can create through Grafana and prometheus which is any ways demonstrated earlier 
+
+All screen shots included 
